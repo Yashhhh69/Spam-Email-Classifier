@@ -1,5 +1,0 @@
-data = {'label': ['ham', 'spam', 'ham', 'spam'],
-        'message': ['Hey, are we still meeting for lunch?', 
-                    'WINNER! Claim your free gift card now!', 
-                    'Can you send me that report?', 
-                    'Urgent: Your account has been suspended. Click here.']}
